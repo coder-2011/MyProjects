@@ -1,3 +1,3 @@
 # OTPSystem
-These are bassically all the cool python projects that I have!
+These are basically all the cool python projects that I have!
  
